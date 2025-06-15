@@ -1,5 +1,5 @@
 # Food-Recognition-and-Calories-Estimation
-0.	Title Page
+0.	Title :- 
 	Project Title: Food Recognization and Calories Estimation
 	Student Name: Kanchan Kad, Vishakha More
 	Guide Name: Dr.Abuzar sir Department of Data Science
@@ -7,11 +7,11 @@
 	Institution: SIES College of Arts, Science, and Commerce
 	Academic Year: 2024-25
 	Date of Submission: 21/10/2024
-1.	Acknowledgments
+1.	Acknowledgments:- 
 I would like to express my sincere gratitude to my project supervisor, Dr. Abuzar Ansari, for their invaluable support and guidance throughout this project. I also appreciate my peers for their constructive feedback and encouragement.
-2.	Abstract
+2.	Abstract:- 
 The growing focus on health and nutrition has increased the demand for effective methods to recognize fruits and vegetables and estimate their calorie content. This paper introduces an innovative application that uses deep learning and image processing to identify different fruits and vegetables and predict their calorie values. It integrates a pre-trained convolutional neural network (CNN) model with web scraping to retrieve calorie information, offering users real-time nutritional insights. The system supports both live camera input and image uploads, making it versatile for dietary management and health monitoring.
-3.	Acronyms and Abbreviations
+3.	Acronyms and Abbreviations:- 
 st – Streamlit (a Python library for building web apps)
 PIL – Python Imaging Library (part of the Pillow package used for image processing)
 Keras – (not an acronym but a deep learning library in Python)
@@ -19,7 +19,7 @@ cv2 – OpenCV (Open Source Computer Vision Library)
 np – NumPy (a package for numerical computations in Python)
 h5 – HDF5 (Hierarchical Data Format version 5, a file format to store large datasets)
 ________________________________________
-Chapters
+
 Chapter 1: Introduction
 As awareness of healthy eating grows, there's a rising need for tools that provide real-time nutritional analysis. While many apps offer manual calorie tracking, automating food recognition and calorie estimation through image processing is less explored. This research develops an automated system that uses deep learning to identify fruits and vegetables and estimate their calorie content. A pre-trained CNN classifies various produce, integrated with web scraping for real-time calorie data retrieval. The application supports two modes: live camera input for scanning food directly and image uploads for analyzing existing photos. This dual functionality enhances user experience and adaptability across environments.
 
